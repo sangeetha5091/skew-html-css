@@ -18,13 +18,13 @@ body {
 }
 
 .vskew {
-  transform: skewY(-5deg);
+  transform: skewY(-2deg);
   padding: 50px;
   background-color: rgb(251, 255, 194);
 }
 
 .vskew .container {
-  transform: skewY(5deg);
+  transform: skewY(2deg);
   padding: 20px 20px 40px;
 }
 .vskew-yellow {
